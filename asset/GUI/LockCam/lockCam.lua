@@ -5,4 +5,4 @@ btnLock.onMouseClick = function()
         lockBodyRotation = false
     }
     Blockman.Instance():changeCameraCfg(CameraCfg, -1)
-end
+endấ
