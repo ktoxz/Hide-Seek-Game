@@ -1,0 +1,68 @@
+{
+  "data": {
+    "md5": "5887f1a517495ccedb9c9d0f9e1aa0e9",
+    "path": "asset/GUI/ClientMainUI/ClientMainUI.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "VerticalAlignment": "Centre"
+          },
+          "Font_size": 15,
+          "id": {
+            "value": "e004ea6e-2774-4601-aece-46dd9940d617"
+          },
+          "name": "OpenPicker",
+          "pos": {
+            "UDim_X": {
+              "Offect": -9.832765900164e-06
+            },
+            "UDim_Y": {
+              "Offect": -3.9999859332978
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 164.65053248409
+            },
+            "UDim_Y": {
+              "Offect": 86.344425201414
+            }
+          },
+          "Text": "Chọn vật phẩm"
+        }
+      ],
+      "id": {
+        "value": "03db40e8-5a1c-4402-bf68-12a56e12fd75"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": -521.85505137663
+        },
+        "UDim_Y": {
+          "Offect": -195.49669857846
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 166.23232877247
+        },
+        "UDim_Y": {
+          "Offect": 86.65878725061
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "5887f1a517495ccedb9c9d0f9e1aa0e9",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.21"
+  }
+}

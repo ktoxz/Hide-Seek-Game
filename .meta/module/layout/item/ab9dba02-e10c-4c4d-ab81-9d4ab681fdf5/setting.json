@@ -1,0 +1,316 @@
+{
+  "data": {
+    "md5": "99afde9bc0802d1feff3de44a8dfdca0",
+    "path": "asset/GUI/ClientPickObj/ClientPickObj.layout",
+    "root": {
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "Button",
+              "Font_size": 49,
+              "id": {
+                "value": "daf3e6d8-bab8-42f2-a0e3-6c14209a24a9"
+              },
+              "name": "Close",
+              "pos": {
+                "UDim_X": {
+                  "Offect": -35.74347981024
+                },
+                "UDim_Y": {
+                  "Offect": -30.993386268617
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 73.460775136953
+                },
+                "UDim_Y": {
+                  "Offect": 74.682155609131
+                }
+              },
+              "Text": "X"
+            },
+            {
+              "__OBJ_TYPE": "ActorWindow",
+              "ActorName": {
+                "asset": "asset/map_tron_tim/b1s.actor"
+              },
+              "ActorScale": 3,
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Centre"
+              },
+              "id": {
+                "value": "df844e5e-94f5-4fb7-89b4-04a661a2d2cd"
+              },
+              "name": "ActorChoosing",
+              "pos": {
+                "UDim_Y": {
+                  "Offect": -11.79469704628
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 221.92539780215
+                },
+                "UDim_Y": {
+                  "Offect": 249.62024793777
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 30,
+              "HoverImage": {
+                "asset": "asset/Texture/Gui/button_yellow_hover.png"
+              },
+              "id": {
+                "value": "f388d16f-7974-4476-a951-0a5648adfed4"
+              },
+              "name": "Prev",
+              "NormalImage": {
+                "asset": "asset/Texture/Gui/button_yellow_hover.png"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Offect": 92.933044729656
+                },
+                "UDim_Y": {
+                  "Offect": -64.070020724676
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 136.50956633986
+                },
+                "UDim_Y": {
+                  "Offect": 104.94685499369
+                }
+              },
+              "Text": "Prev"
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Right",
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 30,
+              "HoverImage": {
+                "asset": "asset/Texture/Gui/button_yellow_hover.png"
+              },
+              "id": {
+                "value": "412f496b-ab9d-44e6-b2b7-3b65c667302a"
+              },
+              "name": "Next",
+              "NormalImage": {
+                "asset": "asset/Texture/Gui/button_yellow_hover.png"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Offect": -92.93
+                },
+                "UDim_Y": {
+                  "Offect": -64.07
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 136.50956633986
+                },
+                "UDim_Y": {
+                  "Offect": 104.94685499369
+                }
+              },
+              "Text": "Next"
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 30,
+              "HorzFormatting": "CentreAligned",
+              "id": {
+                "value": "4142fedb-ca95-496d-a65a-7747d3abfd54"
+              },
+              "name": "ActorDescrip",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 2.7026203830633
+                },
+                "UDim_Y": {
+                  "Offect": -62.076641698548
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 256.0
+                },
+                "UDim_Y": {
+                  "Offect": 76.079050540939
+                }
+              },
+              "Text": "Hehehehe",
+              "TextColours": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "VertFormatting": "CentreAligned"
+            }
+          ],
+          "id": {
+            "value": "25b07c44-d674-4756-abf2-54418b549966"
+          },
+          "Image": {
+            "asset": "asset/Texture/Gui/slider_thumb.png"
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 964.39776659001
+            },
+            "UDim_Y": {
+              "Offect": 511.84105610839
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "StaticText",
+          "anchor": {
+            "HorizontalAlignment": "Centre"
+          },
+          "Font_size": 30,
+          "HorzFormatting": "CentreAligned",
+          "id": {
+            "value": "ce124749-c112-45d2-b2f7-6d8e2d7f1d25"
+          },
+          "name": "Title",
+          "pos": {
+            "UDim_X": {
+              "Offect": -3.6635614646288
+            },
+            "UDim_Y": {
+              "Offect": 44.933759927754
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 319.33296871185
+            },
+            "UDim_Y": {
+              "Offect": 74.072827339176
+            }
+          },
+          "Text": "Object Picker",
+          "VertFormatting": "CentreAligned"
+        },
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Bottom"
+          },
+          "DisabledImage": {
+            "asset": "",
+            "selector": ""
+          },
+          "Font_size": 25,
+          "HoverImage": {
+            "asset": "asset/Texture/Gui/button_yellow_act.png"
+          },
+          "id": {
+            "value": "7fbc482f-3a7b-495c-9ff7-f6f382040b3d"
+          },
+          "name": "Submit",
+          "NormalImage": {
+            "asset": "asset/Texture/Gui/button_yellow_act.png"
+          },
+          "pos": {
+            "UDim_X": {
+              "Offect": -6.4962201118643
+            },
+            "UDim_Y": {
+              "Offect": -23.533597707761
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 136.50922107695
+            },
+            "UDim_Y": {
+              "Offect": 41.241248130799
+            }
+          },
+          "Text": "Submit",
+          "triggers": {
+            "list": [
+              {
+                "custom_trigger_data": {
+                  "name": {
+                    "value": "295dc2b0-99d8-4bce-b915-4ec9b1c3bba5"
+                  },
+                  "type": "Trigger_WidgetClicked"
+                },
+                "root": {
+                  "components": [
+                    {
+                      "__OBJ_TYPE": "Component_Sequence",
+                      "children": [
+                        []
+                      ]
+                    }
+                  ],
+                  "id": {
+                    "value": "bc2073cd-5d8d-49dc-abff-9c14ee0e1afe"
+                  },
+                  "pos": {
+                    "x": 73,
+                    "y": 65
+                  }
+                },
+                "type": "Trigger_WidgetClicked"
+              }
+            ]
+          }
+        }
+      ],
+      "id": {
+        "value": "fc8f684a-5f85-447c-aae4-d9b80cc2d899"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": 178.71746981011
+        },
+        "UDim_Y": {
+          "Offect": 95.36423492433
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 964.74720358849
+        },
+        "UDim_Y": {
+          "Offect": 512.18542647363
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "99afde9bc0802d1feff3de44a8dfdca0",
+      "triggers.bts": "0f9e89ff09a093401c8da695e4211894"
+    },
+    "VERSION": "0.21"
+  }
+}

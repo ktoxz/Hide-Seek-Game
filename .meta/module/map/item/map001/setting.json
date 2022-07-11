@@ -1,0 +1,272 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "26644713697705985",
+        "uniqueKey": "map001"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8708515463227555841",
+        "ID": 1,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight"
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "982100b6-93fe-4e29-925c-bbe27f774a52",
+        "density": 2.93,
+        "friction": 0.74,
+        "id": "8708525449323773953",
+        "massCenter": {
+          "x": -17.329000473022,
+          "y": 15.209496498108,
+          "z": -11.463000297546
+        },
+        "material": {
+          "texture": "part_shihuizhuan.tga"
+        },
+        "mesh": "asset/map_tron_tim/c1v2_1.mesh",
+        "mesh_selector": {
+          "asset": "asset/map_tron_tim/c1v2_1.mesh",
+          "selector": "asset/map_tron_tim/c1v2_1.mesh"
+        },
+        "name": "c1v2_1.mesh",
+        "position": {
+          "x": -17.329000473022,
+          "y": 15.209496498108,
+          "z": -11.463000297546
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 1.6743,
+          "y": 1.6743,
+          "z": 1.6743
+        },
+        "size": {
+          "x": 22.267688751221,
+          "y": 28.419166564941,
+          "z": 29.128343582153
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "934b7eac-ca16-489f-afe4-cffd05b0f6ae",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8708544270493024257",
+        "massCenter": {
+          "x": -19.978000640869,
+          "y": 17.929359436035,
+          "z": 12.624003410339
+        },
+        "mesh": "asset/map_tron_tim/c3.mesh",
+        "mesh_selector": {
+          "asset": "asset/map_tron_tim/c3.mesh",
+          "selector": "asset/map_tron_tim/c3.mesh"
+        },
+        "name": "c3.mesh",
+        "position": {
+          "x": -19.978000640869,
+          "y": 17.929359436035,
+          "z": 12.624003410339
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 1.64976,
+          "y": 1.64976,
+          "z": 1.64976
+        },
+        "size": {
+          "x": 34.291767120361,
+          "y": 34.426864624023,
+          "z": 19.989860534668
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "cfa770ed-eaa1-41de-9647-5334ae192ac4",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8708546168789254145",
+        "massCenter": {
+          "x": 0.60400003194809,
+          "y": 5.4483480453491,
+          "z": 0.098000064492226
+        },
+        "mesh": "asset/map_tron_tim/c5.mesh",
+        "mesh_selector": {
+          "asset": "asset/map_tron_tim/c5.mesh",
+          "selector": "asset/map_tron_tim/c5.mesh"
+        },
+        "name": "c5.mesh",
+        "position": {
+          "x": 0.60400003194809,
+          "y": 5.4483480453491,
+          "z": 0.098000064492226
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 0.922249,
+          "y": 0.922249,
+          "z": 0.922248
+        },
+        "size": {
+          "x": 6.1749057769775,
+          "y": 8.8968992233276,
+          "z": 5.474292755127
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "ede882ef-79b6-48f0-8056-1a85dfd18927",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8708547206098305025",
+        "massCenter": {
+          "x": 11.605000495911,
+          "y": 3.9614787101746,
+          "z": -9.3819999694824
+        },
+        "mesh": "asset/map_tron_tim/c4.mesh",
+        "mesh_selector": {
+          "asset": "asset/map_tron_tim/c4.mesh",
+          "selector": "asset/map_tron_tim/c4.mesh"
+        },
+        "name": "c4.mesh",
+        "position": {
+          "x": 11.605000495911,
+          "y": 3.9614787101746,
+          "z": -9.3819999694824
+        },
+        "restitution": 0.3,
+        "size": {
+          "x": 14.799300193787,
+          "y": 5.9231534004211,
+          "z": 31.140132904053
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/a2eb5111-3ce6-4437-9587-04c5556cdef5",
+        "id": "8708655708100902913",
+        "name": "entity_a2eb5111-3ce6-4437-9587-04c5556cdef5",
+        "position": {
+          "x": 21.413024902344,
+          "y": 0.99990010261536,
+          "z": 2.5548226833344
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/9250aeed-0e5b-4adc-85d6-7277d9d64ac8",
+        "id": "8708655760738828289",
+        "name": "entity_9250aeed-0e5b-4adc-85d6-7277d9d64ac8",
+        "position": {
+          "x": 21.395313262939,
+          "y": 0.99990010261536,
+          "z": 0.76626312732697
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/a8946193-0795-4cbe-8355-e1304abd5b3e",
+        "id": "8708655850796810241",
+        "name": "entity_a8946193-0795-4cbe-8355-e1304abd5b3e",
+        "position": {
+          "x": 21.469324111938,
+          "y": 0.99990010261536,
+          "z": -1.02869617939
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/e69b74b1-c387-437e-87a7-9c40615f05bc",
+        "id": "8708656245043003393",
+        "name": "entity_e69b74b1-c387-437e-87a7-9c40615f05bc",
+        "position": {
+          "x": 21.666715621948,
+          "y": 0.99990022182465,
+          "z": -2.2896099090576
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/db3dabee-bd95-4a23-a365-09bd7e0d113a",
+        "id": "8708656333522239489",
+        "name": "entity_db3dabee-bd95-4a23-a365-09bd7e0d113a",
+        "position": {
+          "x": 21.554389953613,
+          "y": 0.99989998340607,
+          "z": -3.6175603866577
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/f1094dc4-f62c-4aff-90de-41f5299b9745",
+        "id": "8708656384410517505",
+        "name": "entity_f1094dc4-f62c-4aff-90de-41f5299b9745",
+        "position": {
+          "x": 21.378736495972,
+          "y": 0.99989998340607,
+          "z": -5.0689473152161
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/6db74975-0824-4052-a052-1bc5376a5037",
+        "id": "8708656636045737985",
+        "name": "cup2",
+        "position": {
+          "x": 21.485000610352,
+          "y": 1.9566520452499,
+          "z": 1.0660001039505
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/6db74975-0824-4052-a052-1bc5376a5037",
+        "id": "8708657184313638913",
+        "name": "cup1",
+        "position": {
+          "x": 24.218807220459,
+          "y": 0.99989998340607,
+          "z": 4.3718976974487
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/6db74975-0824-4052-a052-1bc5376a5037",
+        "id": "8708987374953529345",
+        "name": "cup3",
+        "position": {
+          "x": 23.717000961304,
+          "y": 0.9998996257782,
+          "z": 2.8700001239777
+        }
+      }
+    ],
+    "name": {
+      "value": "map_map001"
+    },
+    "touch_pos": {
+      "up": 600
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "DataSet": [],
+      "setting.json": "3816d7a60ddefaa746d6b038679f5c42"
+    },
+    "VERSION": "0.21"
+  }
+}

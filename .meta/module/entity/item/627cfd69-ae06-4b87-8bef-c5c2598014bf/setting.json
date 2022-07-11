@@ -1,0 +1,27 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/map_tron_tim/b3s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "canClick": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b3s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "93d0b1e5-2f54-455a-b0d4-19489ef71f44"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c037b0a2a04848ed1907df882e2b4bcf"
+    },
+    "VERSION": "0.21"
+  }
+}

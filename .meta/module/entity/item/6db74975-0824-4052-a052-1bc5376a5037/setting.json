@@ -1,0 +1,40 @@
+{
+  "data": {
+    "_clientScript": [
+      {
+        "path": "client/hide"
+      }
+    ],
+    "_serverScript": [
+      {
+        "path": "server/savePos"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b5s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b5s.actor"
+    },
+    "gravity": 0,
+    "hideName": true,
+    "name": {
+      "value": "974e6472-dbf7-444c-849f-19c185e32106"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "b4e2592352c7a136c269f06c4c1bd51e",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.21"
+  }
+}

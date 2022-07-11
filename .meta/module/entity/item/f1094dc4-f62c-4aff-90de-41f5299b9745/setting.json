@@ -1,0 +1,37 @@
+{
+  "data": {
+    "_clientScript": [
+      {
+        "path": "client/openPicker"
+      }
+    ],
+    "_serverScript": [
+      {
+        "path": "server/touchManage"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b4s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "canClick": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b4s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "3984adf1-4948-489d-99e6-90effc673b69"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "661632ddd27e96722df6c679311e438e"
+    },
+    "VERSION": "0.21"
+  }
+}

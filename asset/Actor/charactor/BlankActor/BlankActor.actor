@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='GB2312'?>
+<ActorTemplates>
+    <ActorTemplate Volume="0.8" res_skeleton="firstPrvActor.skel" IsShowShadow="true" MaxDistance="16" SoundName3="" SoundName5="" Alpha="1" TextHeight="0" WoundBone="" IntervalTime="2" SoundFileNum="0" SelectedRingSize="1" WoundAngle="25" SoundName4="" name="BlankActor.actor" AttackScale="1" Originalscale="1 1 1" MinDistance="1" SoundName2="" Skeleton="firstPrvActor.skel" SoundName1="">
+        <BodyParts/>
+        <Skills>
+            <!--
+		<Skill TextMode="0" Name="idle" EnableWound="false" UserDefineTime="-2">
+			</Skill>
+		-->
+        </Skills>
+        <Anims/>
+    </ActorTemplate>
+</ActorTemplates>
