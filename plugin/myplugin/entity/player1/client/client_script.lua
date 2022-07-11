@@ -7,12 +7,6 @@
 -- end)
 
 
--- PackageHandlers.registerClientHandler("openMainUI", function()
---   UI:openWindow("GUI\\LockCam\\LockCam")
---  end)
-
-local CameraCfg = {
-    enable = true,
-    lockBodyRotation = false
-}
-Blockman.Instance():changeCameraCfg(CameraCfg, -1)
+ PackageHandlers.registerClientHandler("openMainUI", function()
+   UI:openWindow("GUI\\LockCam\\LockCam")
+end)
