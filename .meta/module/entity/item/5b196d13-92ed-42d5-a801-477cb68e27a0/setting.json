@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/vase"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "1a5debcc930eba77381bfda98ae8dced",
+      "setting.json": "d4074c10c81259f50ce6ac43abdbaacc",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

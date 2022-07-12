@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/littleTree"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "0ceb526e6556a273a78018dfec1e0a4a",
+      "setting.json": "d68c7d216411f8b4fc1490c50ee605f4",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/bowling"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "14fffbaa6603f202826d6caa7e2319f9",
+      "setting.json": "ec2e9daa75cdd73145edbfc25edd455e",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

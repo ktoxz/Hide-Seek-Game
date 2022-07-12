@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/shelf"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "744f631528fe7108ca4f2a951ff45f66",
+      "setting.json": "51a31ca617d15739c786a2a85b636cd8",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

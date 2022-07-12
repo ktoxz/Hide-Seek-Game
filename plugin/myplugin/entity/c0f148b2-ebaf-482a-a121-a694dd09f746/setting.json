@@ -1,7 +1,7 @@
 {
   "_clientScript": [],
   "_serverScript": [
-    "server/server_script"
+    "server/lineOfTree"
   ],
   "actorGirlName": "asset/map_tron_tim/b12s.actor",
   "actorName": "asset/map_tron_tim/b12s.actor",

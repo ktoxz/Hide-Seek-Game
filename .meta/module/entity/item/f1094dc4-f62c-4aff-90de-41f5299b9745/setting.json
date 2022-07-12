@@ -7,7 +7,7 @@
     ],
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/laptop"
       }
     ],
     "actorName": {
@@ -31,7 +31,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "905e55612e2be2fb60816e6d736389f1",
+      "setting.json": "c6aefa117d31fe12a779ee0b2c3175f1",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

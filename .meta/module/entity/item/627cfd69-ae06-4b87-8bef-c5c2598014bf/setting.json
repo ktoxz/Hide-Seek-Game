@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/wardrobe"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "7d95ac3b49d3d0d1b8b737d91a5d7604",
+      "setting.json": "28e555ca2d19839bbf89c0ff32aed416",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

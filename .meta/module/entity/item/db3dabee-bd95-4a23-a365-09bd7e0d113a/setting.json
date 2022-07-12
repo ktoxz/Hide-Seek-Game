@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/pcScreen"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "917c6507a2e9b4fe5789f15a8af334a5",
+      "setting.json": "8e4b42af4f02fdf428f5976464f50d23",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

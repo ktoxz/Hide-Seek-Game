@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/lamp"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "34d40c341645e7585be55afdc85c3cd8",
+      "setting.json": "4c8f35f9758989f524adae50dc7a899a",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

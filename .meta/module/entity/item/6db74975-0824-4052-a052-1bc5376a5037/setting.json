@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/cup"
       }
     ],
     "actorName": {
@@ -27,7 +27,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "86c35164f9fc0a1b54c9a069b4308eaf",
+      "setting.json": "d4b402e279c03d1a8eb384436c9c0365",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

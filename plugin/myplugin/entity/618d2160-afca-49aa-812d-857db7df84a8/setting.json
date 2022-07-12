@@ -3,7 +3,7 @@
     "client/openPicker"
   ],
   "_serverScript": [
-    "server/server_script"
+    "server/table"
   ],
   "actorGirlName": "asset/map_tron_tim/b6s.actor",
   "actorName": "asset/map_tron_tim/b6s.actor",

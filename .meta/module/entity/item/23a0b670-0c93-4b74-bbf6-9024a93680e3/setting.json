@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/chair1"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f804ffbaaf83d1ae5ae2636a3648e7bf",
+      "setting.json": "d60c942eacafa7fc40c43d255a275970",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

@@ -2,23 +2,25 @@ Trigger.RegisterHandler(this:cfg(), "ENTITY_CLICK", function(context)
     local target = context.obj1
     local player = context.obj2
     local entityLink = player:getValue("entityLink");
+    local entityRotation = player:getValue("entityRotation")
     local entityPos = player:getPosition();
     local isSur = player:getValue("isSur")
-    Lib.pv(this:getRotationYaw())
+    print(player:getRotationYaw())
     if(isSur == 1) then
-        if(entityLink == "" or entityPos == "") then
+        if(entityLink == "" or entityPos == "" or entityRotation == "") then
             print("no")
         end 
-        if(entityLink ~= "" and entityPos ~= "") then
+        if(entityLink ~= "" and entityPos ~= "" and entityRotation ~= "") then
             local world = World.CurWorld    
             local defaultMap = world.defaultMap
             local createParams = {cfgName = entityLink, pos=entityPos, map=defaultMap}
             print("entityPos "..entityPos.x.." "..entityPos.y .. " " .. entityPos.z )
             print("hello" .. entityLink)
-            EntityServer.Create(createParams)
+            EntityServer.Create(createParams):setRotationYaw(entityRotation)
         end
         local entityActorLink = target:cfg().actorName
-        local entityLink = target:cfg().fullName
+        entityLink = target:cfg().fullName
+        player:setValue("entityRotation", player:getRotationYaw())
         player:setValue("entityLink", entityLink)
         player:changeActor(entityActorLink)
         target:kill(player, "hehe")

@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/lightBulb"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "aa44b1d1a42bf909d17d6e981f7e06ea",
+      "setting.json": "d5fb93e1dae3bcca2944fe97a4187b10",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

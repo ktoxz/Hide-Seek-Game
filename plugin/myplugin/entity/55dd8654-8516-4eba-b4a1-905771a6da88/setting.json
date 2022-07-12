@@ -1,7 +1,7 @@
 {
   "_clientScript": [],
   "_serverScript": [
-    "server/server_script"
+    "server/lightBulb"
   ],
   "actorGirlName": "asset/map_tron_tim/b11s.actor",
   "actorName": "asset/map_tron_tim/b11s.actor",

@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/lineOfTree"
       }
     ],
     "actorName": {
@@ -27,7 +27,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "c823766034dcab6ff169cef296b12ad0",
+      "setting.json": "4a1dbd6b684a686d9e996a5b0021a212",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

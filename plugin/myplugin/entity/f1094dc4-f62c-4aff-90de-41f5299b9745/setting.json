@@ -3,7 +3,7 @@
     "client/openPicker"
   ],
   "_serverScript": [
-    "server/server_script"
+    "server/laptop"
   ],
   "actorGirlName": "asset/map_tron_tim/b4s.actor",
   "actorName": "asset/map_tron_tim/b4s.actor",

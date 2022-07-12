@@ -2,7 +2,7 @@
   "data": {
     "_serverScript": [
       {
-        "path": "server/server_script"
+        "path": "server/TreeWithLittleLeaves"
       }
     ],
     "actorName": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "3c289adcb86de5c2703c7f12ca4009e3",
+      "setting.json": "308d4aad6d166f9684648f758e9e2696",
       "triggers.bts": ""
     },
     "VERSION": "0.21"
