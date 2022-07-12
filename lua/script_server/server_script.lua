@@ -7,7 +7,7 @@ Trigger.RegisterHandler(World.cfg, "GAME_START", function()
         if(v.isPlayer == true) then
             PackageHandlers.sendServerHandler(v, "openMainUI")
             v.addValueDef("entityLink", "", true, true, true)
-            v.addValueDef("entityPos", "", true, true, true)
+            v.addValueDef("entityRotation", "", true, true, true)
             v.addValueDef("isSur", 1, true, true, true)
             v:setValue("isSur", 1)
         end
