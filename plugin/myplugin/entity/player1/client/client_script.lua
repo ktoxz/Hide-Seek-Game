@@ -10,3 +10,4 @@
  PackageHandlers.registerClientHandler("openMainUI", function()
    UI:openWindow("GUI\\LockCam\\LockCam")
 end)
+

@@ -1,0 +1,35 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/server_script"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b12s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b12s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "1467c643-061a-4623-be7b-d57814653d4a"
+    },
+    "unAssailable": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c823766034dcab6ff169cef296b12ad0",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.21"
+  }
+}

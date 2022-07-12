@@ -1,5 +1,10 @@
 {
   "data": {
+    "_serverScript": [
+      {
+        "path": "server/server_script"
+      }
+    ],
     "actorName": {
       "asset": "asset/map_tron_tim/b2s.actor"
     },
@@ -10,6 +15,7 @@
       "patrolMode": "randomPath"
     },
     "canClick": true,
+    "collision": true,
     "girlactor": {
       "asset": "asset/map_tron_tim/b2s.actor"
     },
@@ -20,7 +26,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "c19b8f7485a0fe878dfe02f4fbac2ea3"
+      "setting.json": "1a5debcc930eba77381bfda98ae8dced",
+      "triggers.bts": ""
     },
     "VERSION": "0.21"
   }

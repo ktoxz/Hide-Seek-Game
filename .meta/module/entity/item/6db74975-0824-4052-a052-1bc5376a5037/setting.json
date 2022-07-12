@@ -1,13 +1,8 @@
 {
   "data": {
-    "_clientScript": [
-      {
-        "path": "client/hide"
-      }
-    ],
     "_serverScript": [
       {
-        "path": "server/savePos"
+        "path": "server/server_script"
       }
     ],
     "actorName": {
@@ -32,7 +27,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "b4e2592352c7a136c269f06c4c1bd51e",
+      "setting.json": "86c35164f9fc0a1b54c9a069b4308eaf",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

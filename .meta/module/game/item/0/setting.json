@@ -20,8 +20,8 @@
       "m": 40
     },
     "player_range": {
-      "max": 6,
-      "min": 1
+      "max": 10,
+      "min": 2
     },
     "startPos": {
       "map": "map001",
@@ -31,11 +31,72 @@
         "z": 37
       }
     },
+    "team": {
+      "automatch": true,
+      "team": [
+        {
+          "actorName": {
+            "asset": "",
+            "selector": ""
+          },
+          "ignorePlayerSkinEditor": false,
+          "image": {
+            "selector": "editor/Hide&Seek Game/asset/Texture/Team/flag/flag_1.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 7,
+              "y": 1.04,
+              "z": 37
+            }
+          },
+          "name": "survivor",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 4.455258846283,
+              "y": 1.0398998641968,
+              "z": -28.761039733887
+            }
+          }
+        },
+        {
+          "actorName": {
+            "asset": "asset/Actor/charactor/charactor_hunter/hunter.actor",
+            "selector": "editor/Hide&Seek Game/asset/Actor/charactor/charactor_hunter/hunter.actor"
+          },
+          "id": 2,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_2.png",
+            "selector": "editor/Hide&Seek Game/asset/Texture/Team/flag/flag_2.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 7,
+              "y": 1.04,
+              "z": 37
+            }
+          },
+          "memberLimit": 2,
+          "name": "hunter",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": -19.44829750061,
+              "y": 28.577853240967,
+              "z": -11.122920036316
+            }
+          }
+        }
+      ]
+    },
     "unlimitedPlayTime": true
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "e11ff6a563afc48544ed1e817ecbb37d",
+      "setting.json": "b0504196ea317a37cffa431843cd1904",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "",
       "triggers_client.bts": ""

@@ -1,5 +1,10 @@
 {
   "data": {
+    "_serverScript": [
+      {
+        "path": "server/server_script"
+      }
+    ],
     "actorName": {
       "asset": "asset/map_tron_tim/b1s.actor"
     },
@@ -21,7 +26,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "c5098b432f2f079d3c5f117e6d177f05",
+      "setting.json": "aecf45913cc71371ab1b4ee7e2317b5f",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

@@ -5,6 +5,11 @@
         "path": "client/client_script"
       }
     ],
+    "_serverScript": [
+      {
+        "path": "server/touch"
+      }
+    ],
     "actorModel": {
       "modelType": "Customize"
     },
@@ -12,18 +17,18 @@
       "enable": true
     },
     "AI_home": {
-      "homeSize": 5.0
+      "homeSize": 5
     },
     "AI_patrol": {
       "patrolMode": "randomPath"
     },
     "boundingVolume": {
-      "height": 1.7,
       "radius": 0.43,
       "type": "Capsule"
     },
     "canClick": true,
     "canRevive": true,
+    "collision": true,
     "damage": 10,
     "deadAction": {
       "deathHideTime": {
@@ -31,8 +36,9 @@
       },
       "playDeadAction": "die_front"
     },
+    "hideName": true,
     "isPlayer": true,
-    "moveSpeed": 10.0,
+    "moveSpeed": 10,
     "name": {
       "value": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d"
     },
@@ -42,7 +48,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "768c21b603abce5312b3c1a444235c76",
+      "setting.json": "412d9b6f36c481491441338543678abe",
       "triggers.bts": ""
     },
     "VERSION": "0.21"

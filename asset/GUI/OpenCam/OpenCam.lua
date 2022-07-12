@@ -1,4 +1,4 @@
-local btnOpen = self:child("LockCam")
+local btnOpen = self:child("OpenCam")
 btnOpen.onMouseClick = function()
     local CameraCfg = {
         enable = true,
@@ -7,4 +7,5 @@ btnOpen.onMouseClick = function()
     Blockman.Instance():changeCameraCfg(CameraCfg, -1)
     self:close()
     UI:openWindow("GUI\\LockCam\\LockCam" )
+    
 end

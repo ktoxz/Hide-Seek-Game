@@ -1,5 +1,10 @@
 {
   "data": {
+    "_serverScript": [
+      {
+        "path": "server/server_script"
+      }
+    ],
     "actorName": {
       "asset": "asset/map_tron_tim/b7s.actor"
     },
@@ -9,6 +14,8 @@
     "AI_patrol": {
       "patrolMode": "randomPath"
     },
+    "canClick": true,
+    "collision": true,
     "girlactor": {
       "asset": "asset/map_tron_tim/b7s.actor"
     },
@@ -19,7 +26,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "0825b8667befcbc5d8d3d58e6c0534a8"
+      "setting.json": "14fffbaa6603f202826d6caa7e2319f9",
+      "triggers.bts": ""
     },
     "VERSION": "0.21"
   }

@@ -7,7 +7,7 @@
     ],
     "_serverScript": [
       {
-        "path": "server/touchManage"
+        "path": "server/server_script"
       }
     ],
     "actorName": {
@@ -20,6 +20,7 @@
       "patrolMode": "randomPath"
     },
     "canClick": true,
+    "collision": true,
     "girlactor": {
       "asset": "asset/map_tron_tim/b4s.actor"
     },
@@ -30,7 +31,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "661632ddd27e96722df6c679311e438e"
+      "setting.json": "905e55612e2be2fb60816e6d736389f1",
+      "triggers.bts": ""
     },
     "VERSION": "0.21"
   }

@@ -5,6 +5,7 @@ btnLock.onMouseClick = function()
         lockBodyRotation = false
     }
     Blockman.Instance():changeCameraCfg(CameraCfg, -1)
-    self:close()
     UI:openWindow("GUI\\OpenCam\\OpenCam" )
+    self:close()
+    
 end

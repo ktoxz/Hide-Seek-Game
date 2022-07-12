@@ -1,9 +1,13 @@
 {
   "_clientScript": [],
-  "_serverScript": [],
+  "_serverScript": [
+    "server/server_script"
+  ],
   "actorGirlName": "asset/map_tron_tim/b3s.actor",
   "actorName": "asset/map_tron_tim/b3s.actor",
   "aiFixSpeedRate": 2,
+  "attackNpc": false,
+  "autoAttack": false,
   "autoMove": false,
   "autoRotateColliderBox": true,
   "avoidCliff": true,
@@ -15,6 +19,8 @@
   "canPickOnDie": false,
   "canTurnHead": false,
   "castRealShadowAtFirstPRV": false,
+  "chaseDistance": 10,
+  "chaseInterval": 10,
   "checkPartTouchEvent": true,
   "clickDistance": 4,
   "collider": {
@@ -35,7 +41,7 @@
     },
     "type": "Box"
   },
-  "collision": false,
+  "collision": true,
   "damage": 0,
   "deathHideTime": 20,
   "destroyTime": 0,
@@ -44,7 +50,6 @@
   "dropDamageRatio": 0,
   "dropDamageStart": 1.5,
   "enableAI": false,
-  "enableMeshNavigate": false,
   "equipTrays": [],
   "eyeHeight": 1.62,
   "followEntityDistanceWhenHasTarget": 10,
@@ -59,17 +64,24 @@
   "hpBarHeight": 0.2,
   "hpBarWidth": 1,
   "hurtResistantTime": 0,
+  "idleProb": 0,
+  "idleTime": [
+    10,
+    30
+  ],
   "isAIGoHomePos": true,
   "isPlayer": false,
   "jumpHeight": 0.6,
   "jumpSpeed": 0.5,
   "maxHp": 20,
+  "maxVisualAngle": 360,
   "meetCliffBackRun": true,
   "moveAcc": 0.2,
   "moveFactor": 1,
   "moveSpeed": 0.2,
   "name": "93d0b1e5-2f54-455a-b0d4-19489ef71f44",
   "needCheckTouch": true,
+  "patrolDistance": 5,
   "randomPlayDeadActions": [
     ""
   ],
@@ -77,9 +89,9 @@
   "setFollowWhenCreate": true,
   "skillInfos": [],
   "stepHeight": 0.6,
-  "swimSpeed": 0.2,
   "textHeight": 2.3,
+  "touchdownTimeToDie": true,
+  "touchdownTimeToDieTick": 5,
   "unassailable": 0,
-  "undamageable": 0,
-  "waterline": 0
+  "undamageable": 0
 }

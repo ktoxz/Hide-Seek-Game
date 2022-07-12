@@ -1,9 +1,7 @@
 {
-  "_clientScript": [
-    "client/hide"
-  ],
+  "_clientScript": [],
   "_serverScript": [
-    "server/savePos"
+    "server/server_script"
   ],
   "actorGirlName": "asset/map_tron_tim/b5s.actor",
   "actorName": "asset/map_tron_tim/b5s.actor",

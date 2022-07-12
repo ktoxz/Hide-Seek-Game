@@ -1,6 +1,8 @@
 {
   "_clientScript": [],
-  "_serverScript": [],
+  "_serverScript": [
+    "server/server_script"
+  ],
   "actorGirlName": "asset/map_tron_tim/b1s.actor",
   "actorName": "asset/map_tron_tim/b1s.actor",
   "aiFixSpeedRate": 2,
