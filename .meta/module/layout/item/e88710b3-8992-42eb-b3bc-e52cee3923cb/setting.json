@@ -59,10 +59,7 @@
     }
   },
   "meta": {
-    "EXPORT": {
-      "layout": "5887f1a517495ccedb9c9d0f9e1aa0e9",
-      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
-    },
-    "VERSION": "0.21"
+    "EXPORT": [],
+    "VERSION": "0.22"
   }
 }

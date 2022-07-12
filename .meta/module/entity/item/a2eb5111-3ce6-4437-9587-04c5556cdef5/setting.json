@@ -14,6 +14,12 @@
     "AI_patrol": {
       "patrolMode": "randomPath"
     },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
     "canClick": true,
     "collision": true,
     "girlactor": {
@@ -26,9 +32,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "4c8f35f9758989f524adae50dc7a899a",
+      "setting.json": "c067facc2885e706b54a6bb1a1efe5b2",
       "triggers.bts": ""
     },
-    "VERSION": "0.21"
+    "VERSION": "0.22"
   }
 }

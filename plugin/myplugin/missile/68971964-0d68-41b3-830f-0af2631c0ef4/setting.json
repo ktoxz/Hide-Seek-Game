@@ -8,14 +8,14 @@
       "z": 0.2
     },
     "offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "type": "Box"
   },
@@ -39,6 +39,11 @@
   "lockRotateBodyRoll": 0,
   "lockRotateBodyYaw": 0,
   "modelMesh": "",
+  "modelSizeScale": {
+    "x": 1,
+    "y": 1,
+    "z": 1
+  },
   "moveAcc": 0.0,
   "moveSpeed": 2.0,
   "rotateFree": true,

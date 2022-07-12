@@ -16,7 +16,7 @@ Trigger.RegisterHandler(this:cfg(), "ENTITY_CLICK", function(context)
             local createParams = {cfgName = entityLink, pos=entityPos, map=defaultMap}
             print("entityPos "..entityPos.x.." "..entityPos.y .. " " .. entityPos.z )
             print("hello" .. entityLink)
-            EntityServer.Create(createParams):setRotationYaw(entityRotation)
+            EntityServer.Create(createParams):setRotationYaw(player:getRotationYaw())
         end
         local entityActorLink = target:cfg().actorName
         entityLink = target:cfg().fullName

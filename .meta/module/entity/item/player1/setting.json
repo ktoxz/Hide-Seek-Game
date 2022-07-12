@@ -23,7 +23,10 @@
       "patrolMode": "randomPath"
     },
     "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
       "radius": 0.43,
+      "radius_c": 0.43,
       "type": "Capsule"
     },
     "canClick": true,
@@ -48,9 +51,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "412d9b6f36c481491441338543678abe",
+      "setting.json": "d62a4bcd0a1a234aea248dc21e06c57d",
       "triggers.bts": ""
     },
-    "VERSION": "0.21"
+    "VERSION": "0.22"
   }
 }

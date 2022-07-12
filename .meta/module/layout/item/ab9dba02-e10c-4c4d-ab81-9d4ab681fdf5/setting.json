@@ -154,9 +154,6 @@
                 }
               },
               "size": {
-                "UDim_X": {
-                  "Offect": 256.0
-                },
                 "UDim_Y": {
                   "Offect": 76.079050540939
                 }
@@ -307,10 +304,7 @@
     }
   },
   "meta": {
-    "EXPORT": {
-      "layout": "99afde9bc0802d1feff3de44a8dfdca0",
-      "triggers.bts": "0f9e89ff09a093401c8da695e4211894"
-    },
-    "VERSION": "0.21"
+    "EXPORT": [],
+    "VERSION": "0.22"
   }
 }

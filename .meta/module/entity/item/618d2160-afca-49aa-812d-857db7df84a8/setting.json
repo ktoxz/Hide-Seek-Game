@@ -22,6 +22,9 @@
     "autoMove": true,
     "boundingVolume": {
       "height": 0.9,
+      "height_c": 0.9,
+      "radius": 0.45,
+      "radius_c": 0.45,
       "type": "Cylinder"
     },
     "canClick": true,
@@ -36,9 +39,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "637f88e44ed5dcabb8d566689c3c8927",
+      "setting.json": "27512ffc9ec25742fe0afcc468e89e69",
       "triggers.bts": ""
     },
-    "VERSION": "0.21"
+    "VERSION": "0.22"
   }
 }

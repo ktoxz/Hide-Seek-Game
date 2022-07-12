@@ -19,6 +19,19 @@
         "name": "EnvironmentLight"
       },
       {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8711953554355994625",
+        "ID": 2,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        }
+      },
+      {
         "__OBJ_TYPE": "Instance_MeshPart",
         "btsKey": "982100b6-93fe-4e29-925c-bbe27f774a52",
         "density": 2.93,
@@ -305,7 +318,7 @@
           "z": -7.0270085334778
         },
         "rotation": {
-          "y": -54.0
+          "y": -54
         }
       },
       {
@@ -454,8 +467,8 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "ad03a0a8aecd9d9100abcdde69414cd5"
+      "setting.json": "37ab69d27db06f487da7955039e3fb80"
     },
-    "VERSION": "0.21"
+    "VERSION": "0.22"
   }
 }
