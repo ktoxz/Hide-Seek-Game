@@ -169,105 +169,6 @@
         "useAnchor": true
       },
       {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/a2eb5111-3ce6-4437-9587-04c5556cdef5",
-        "id": "8708655708100902913",
-        "name": "entity_a2eb5111-3ce6-4437-9587-04c5556cdef5",
-        "position": {
-          "x": 21.413024902344,
-          "y": 0.99990010261536,
-          "z": 2.5548226833344
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/9250aeed-0e5b-4adc-85d6-7277d9d64ac8",
-        "id": "8708655760738828289",
-        "name": "entity_9250aeed-0e5b-4adc-85d6-7277d9d64ac8",
-        "position": {
-          "x": 21.395313262939,
-          "y": 0.99990010261536,
-          "z": 0.76626312732697
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/a8946193-0795-4cbe-8355-e1304abd5b3e",
-        "id": "8708655850796810241",
-        "name": "entity_a8946193-0795-4cbe-8355-e1304abd5b3e",
-        "position": {
-          "x": 21.469324111938,
-          "y": 0.99990010261536,
-          "z": -1.02869617939
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/e69b74b1-c387-437e-87a7-9c40615f05bc",
-        "id": "8708656245043003393",
-        "name": "entity_e69b74b1-c387-437e-87a7-9c40615f05bc",
-        "position": {
-          "x": 21.666715621948,
-          "y": 0.99990022182465,
-          "z": -2.2896099090576
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/db3dabee-bd95-4a23-a365-09bd7e0d113a",
-        "id": "8708656333522239489",
-        "name": "entity_db3dabee-bd95-4a23-a365-09bd7e0d113a",
-        "position": {
-          "x": 21.554389953613,
-          "y": 0.99989998340607,
-          "z": -3.6175603866577
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/f1094dc4-f62c-4aff-90de-41f5299b9745",
-        "id": "8708656384410517505",
-        "name": "entity_f1094dc4-f62c-4aff-90de-41f5299b9745",
-        "position": {
-          "x": 21.378736495972,
-          "y": 0.99989998340607,
-          "z": -5.0689473152161
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/6db74975-0824-4052-a052-1bc5376a5037",
-        "id": "8708656636045737985",
-        "name": "cup2",
-        "position": {
-          "x": 20.338001251221,
-          "y": 0.99990022182465,
-          "z": -0.13400000333786
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/6db74975-0824-4052-a052-1bc5376a5037",
-        "id": "8708657184313638913",
-        "name": "cup1",
-        "position": {
-          "x": 24.218807220459,
-          "y": 0.99989998340607,
-          "z": 4.3718976974487
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/6db74975-0824-4052-a052-1bc5376a5037",
-        "id": "8708987374953529345",
-        "name": "cup3",
-        "position": {
-          "x": 23.717000961304,
-          "y": 0.9998996257782,
-          "z": 2.8700001239777
-        }
-      },
-      {
         "__OBJ_TYPE": "Instance_MeshPart",
         "btsKey": "e1c9a438-2ed8-42c8-8d4a-0c0ea3c16f62",
         "density": 2.2,
@@ -298,162 +199,24 @@
       },
       {
         "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/f1094dc4-f62c-4aff-90de-41f5299b9745",
-        "id": "8711319745951301633",
-        "name": "entity_f1094dc4-f62c-4aff-90de-41f5299b9745",
+        "config": "myplugin/bin",
+        "id": "8713315530358636545",
+        "name": "entity_bin",
         "position": {
-          "x": 21.519985198975,
-          "y": 0.99989938735962,
-          "z": -6.0442085266113
+          "x": 26.305818557739,
+          "y": 0.99989902973175,
+          "z": 4.8406352996826
         }
       },
       {
         "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/f1094dc4-f62c-4aff-90de-41f5299b9745",
-        "id": "8711319758244577281",
-        "name": "entity_f1094dc4-f62c-4aff-90de-41f5299b9745",
+        "config": "myplugin/lightBulb",
+        "id": "8713318057009233921",
+        "name": "entity_lightBulb",
         "position": {
-          "x": 21.205730438232,
+          "x": 26.031009674072,
           "y": 0.99989891052246,
-          "z": -7.0270085334778
-        },
-        "rotation": {
-          "y": -54
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/e69b74b1-c387-437e-87a7-9c40615f05bc",
-        "id": "8711322881167261697",
-        "name": "entity_e69b74b1-c387-437e-87a7-9c40615f05bc",
-        "position": {
-          "x": 22.633007049561,
-          "y": 0.99989986419678,
-          "z": -4.6100182533264
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/e69b74b1-c387-437e-87a7-9c40615f05bc",
-        "id": "8711322898439159809",
-        "name": "entity_e69b74b1-c387-437e-87a7-9c40615f05bc",
-        "position": {
-          "x": 22.630397796631,
-          "y": 0.99989974498749,
-          "z": -5.771258354187
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/e69b74b1-c387-437e-87a7-9c40615f05bc",
-        "id": "8711322920473739265",
-        "name": "entity_e69b74b1-c387-437e-87a7-9c40615f05bc",
-        "position": {
-          "x": 22.517282485962,
-          "y": 0.99989998340607,
-          "z": -6.9905261993408
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/40b134a0-16c5-48be-b360-076f09a09c79",
-        "id": "8711330209992294401",
-        "name": "bin",
-        "position": {
-          "x": 24.411338806152,
-          "y": 0.99989986419678,
-          "z": -6.5509448051453
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/55dd8654-8516-4eba-b4a1-905771a6da88",
-        "id": "8711330231514267649",
-        "name": "entity_55dd8654-8516-4eba-b4a1-905771a6da88",
-        "position": {
-          "x": 26.359792709351,
-          "y": 0.99989986419678,
-          "z": -6.6590647697449
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/c0f148b2-ebaf-482a-a121-a694dd09f746",
-        "id": "8711332869365153793",
-        "name": "entity_c0f148b2-ebaf-482a-a121-a694dd09f746",
-        "position": {
-          "x": 26.626001358032,
-          "y": 0.99990010261536,
-          "z": -11.19700050354
-        },
-        "rotation": {
-          "y": 92.999664306641
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/c0f148b2-ebaf-482a-a121-a694dd09f746",
-        "id": "8711332875202969601",
-        "name": "entity_c0f148b2-ebaf-482a-a121-a694dd09f746",
-        "position": {
-          "x": 25.564222335815,
-          "y": 0.99989974498749,
-          "z": -1.3653681278229
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/c0f148b2-ebaf-482a-a121-a694dd09f746",
-        "id": "8711332885037531137",
-        "name": "entity_c0f148b2-ebaf-482a-a121-a694dd09f746",
-        "position": {
-          "x": 25.830577850342,
-          "y": 0.99989986419678,
-          "z": 0.353355884552
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/ab0f5131-b915-4238-b855-23b96a775140",
-        "id": "8711476086855139329",
-        "name": "entity_ab0f5131-b915-4238-b855-23b96a775140",
-        "position": {
-          "x": 20.157203674316,
-          "y": 0.99989998340607,
-          "z": -4.0658993721008
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/23a0b670-0c93-4b74-bbf6-9024a93680e3",
-        "id": "8711477020966961153",
-        "name": "entity_23a0b670-0c93-4b74-bbf6-9024a93680e3",
-        "position": {
-          "x": 18.032766342163,
-          "y": 1.84001994133,
-          "z": -3.0534076690674
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/618d2160-afca-49aa-812d-857db7df84a8",
-        "id": "8711485988448272385",
-        "name": "entity_618d2160-afca-49aa-812d-857db7df84a8",
-        "position": {
-          "x": 22.625429153442,
-          "y": 0.9998996257782,
-          "z": -10.183828353882
-        }
-      },
-      {
-        "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/618d2160-afca-49aa-812d-857db7df84a8",
-        "id": "8711487331586539521",
-        "name": "entity_618d2160-afca-49aa-812d-857db7df84a8",
-        "position": {
-          "x": 22.708295822144,
-          "y": 0.99989986419678,
-          "z": -12.899440765381
+          "z": 3.7861502170563
         }
       }
     ],
@@ -467,7 +230,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "37ab69d27db06f487da7955039e3fb80"
+      "setting.json": "32df6328c45f21c1f56a525707801611"
     },
     "VERSION": "0.22"
   }

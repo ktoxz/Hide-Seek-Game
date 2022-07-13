@@ -1,0 +1,41 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/lineOfTree"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b12s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b12s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "712e18eb-4813-4ca5-9498-e999435baa68"
+    },
+    "unAssailable": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ac77a846b2ad65fe58ff4a54a6a6375a",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

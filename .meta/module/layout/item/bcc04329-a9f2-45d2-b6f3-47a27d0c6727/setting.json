@@ -16,7 +16,7 @@
           },
           "Font_size": 16,
           "id": {
-            "value": "7031a4e4-6c17-4305-824c-be8cfc71fee1"
+            "value": "8e2e286e-7d39-4b48-ac52-da1a71db305f"
           },
           "name": "OpenCam",
           "pos": {
@@ -39,7 +39,7 @@
         }
       ],
       "id": {
-        "value": "311365ce-a4e1-4c0e-b830-6d8e798ae6cf"
+        "value": "b73ca2a8-3c2f-4fea-a340-d161dd7cd8ce"
       },
       "pos": {
         "UDim_X": {
@@ -60,7 +60,9 @@
     }
   },
   "meta": {
-    "EXPORT": [],
+    "EXPORT": {
+      "layout": "d48355284380a588b76d59ef82d9a468"
+    },
     "VERSION": "0.22"
   }
 }

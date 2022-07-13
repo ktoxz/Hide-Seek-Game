@@ -15,7 +15,7 @@
               "__OBJ_TYPE": "Button",
               "Font_size": 49,
               "id": {
-                "value": "daf3e6d8-bab8-42f2-a0e3-6c14209a24a9"
+                "value": "4f4a19e8-3afa-4381-8f99-b3298796be4b"
               },
               "name": "Close",
               "pos": {
@@ -47,7 +47,7 @@
                 "VerticalAlignment": "Centre"
               },
               "id": {
-                "value": "df844e5e-94f5-4fb7-89b4-04a661a2d2cd"
+                "value": "11afddc6-df38-42ee-85c1-8cdd508c3705"
               },
               "name": "ActorChoosing",
               "pos": {
@@ -74,7 +74,7 @@
                 "asset": "asset/Texture/Gui/button_yellow_hover.png"
               },
               "id": {
-                "value": "f388d16f-7974-4476-a951-0a5648adfed4"
+                "value": "1912f547-160c-4c3a-9ea2-466540144ad5"
               },
               "name": "Prev",
               "NormalImage": {
@@ -109,7 +109,7 @@
                 "asset": "asset/Texture/Gui/button_yellow_hover.png"
               },
               "id": {
-                "value": "412f496b-ab9d-44e6-b2b7-3b65c667302a"
+                "value": "c443ddf9-1c38-4f9e-a2b3-81cb539d7430"
               },
               "name": "Next",
               "NormalImage": {
@@ -142,7 +142,7 @@
               "Font_size": 30,
               "HorzFormatting": "CentreAligned",
               "id": {
-                "value": "4142fedb-ca95-496d-a65a-7747d3abfd54"
+                "value": "635c2f97-5615-4e7c-9e5c-33204887b1d1"
               },
               "name": "ActorDescrip",
               "pos": {
@@ -154,6 +154,9 @@
                 }
               },
               "size": {
+                "UDim_X": {
+                  "Offect": 256.0
+                },
                 "UDim_Y": {
                   "Offect": 76.079050540939
                 }
@@ -168,7 +171,7 @@
             }
           ],
           "id": {
-            "value": "25b07c44-d674-4756-abf2-54418b549966"
+            "value": "06ea2189-2173-4a41-8885-6ab40df2e48e"
           },
           "Image": {
             "asset": "asset/Texture/Gui/slider_thumb.png"
@@ -190,7 +193,7 @@
           "Font_size": 30,
           "HorzFormatting": "CentreAligned",
           "id": {
-            "value": "ce124749-c112-45d2-b2f7-6d8e2d7f1d25"
+            "value": "1925eca6-b7d8-4f9f-92f5-7d695af117e8"
           },
           "name": "Title",
           "pos": {
@@ -227,7 +230,7 @@
             "asset": "asset/Texture/Gui/button_yellow_act.png"
           },
           "id": {
-            "value": "7fbc482f-3a7b-495c-9ff7-f6f382040b3d"
+            "value": "becbd6af-e39d-4c65-bbdd-6a47d270324c"
           },
           "name": "Submit",
           "NormalImage": {
@@ -283,7 +286,7 @@
         }
       ],
       "id": {
-        "value": "fc8f684a-5f85-447c-aae4-d9b80cc2d899"
+        "value": "563ea94e-069b-4637-ba1d-6859ff3f19be"
       },
       "pos": {
         "UDim_X": {
@@ -304,7 +307,9 @@
     }
   },
   "meta": {
-    "EXPORT": [],
+    "EXPORT": {
+      "layout": "99afde9bc0802d1feff3de44a8dfdca0"
+    },
     "VERSION": "0.22"
   }
 }

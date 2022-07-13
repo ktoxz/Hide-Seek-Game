@@ -16,7 +16,7 @@
           },
           "Font_size": 16,
           "id": {
-            "value": "2f49866b-74dd-4ef8-ad66-63174a99b3e2"
+            "value": "b84fea05-e28b-498c-980b-d14df914c19b"
           },
           "name": "LockCam",
           "pos": {
@@ -32,14 +32,14 @@
               "Offect": 163.37812137603
             },
             "UDim_Y": {
-              "Offect": 73.013266086575
+              "Offect": 73.013266086574
             }
           },
           "Text": "Lock Camera"
         }
       ],
       "id": {
-        "value": "70bd2b29-2b68-41c0-88f8-8ce1121bf718"
+        "value": "db47d927-a3d4-4491-b938-65287dab6692"
       },
       "pos": {
         "UDim_X": {
@@ -54,13 +54,15 @@
           "Offect": 161.33457016946
         },
         "UDim_Y": {
-          "Offect": 69.682165384312
+          "Offect": 69.68216538431
         }
       }
     }
   },
   "meta": {
-    "EXPORT": [],
+    "EXPORT": {
+      "layout": "d5dbf36639f709a038d686c2bd88ff53"
+    },
     "VERSION": "0.22"
   }
 }

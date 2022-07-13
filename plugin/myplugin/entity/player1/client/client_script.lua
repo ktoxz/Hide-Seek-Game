@@ -11,3 +11,6 @@
    UI:openWindow("GUI\\LockCam\\LockCam")
 end)
 
+PackageHandlers.registerClientHandler("openSpectate", function()
+  UI:openWindow("GUI\\SpectateView\\SpectateView")
+end)

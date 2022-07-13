@@ -1,0 +1,40 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/pcScreen"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b16s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b16s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "dd0dc4eb-bc12-4be5-a617-80794253010e"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9f3a520c7d7ee37263f3ec541ccc0c8c",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

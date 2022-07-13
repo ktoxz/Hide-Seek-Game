@@ -9,4 +9,3 @@ Trigger.RegisterHandler(this:cfg(), "ENTITY_CLICK", function(context)
         target:takeDamage(10, player, false, ':>')
     end
 end)
-
